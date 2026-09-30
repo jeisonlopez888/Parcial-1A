@@ -1,4 +1,5 @@
-# Integrantes: Laura Sanchez,Jeison Lopez
+# Integrantes: JEISON LOPEZ, LAURA SANCHEZ
+# Universidad del Quindío - Programación III - Parcial 1
 
 defmodule Validacion do
   @doc "Valida las 5 reglas en orden estricto devolviendo {:ok, servicio} o {:error, motivo}"
