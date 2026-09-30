@@ -1,4 +1,5 @@
-# Integrantes: Nombre 1, Nombre 2, Nombre 3
+# Integrantes: JEISON LOPEZ, LAURA SANCHEZ
+# Universidad del Quindío - Programación III - Parcial 1
 
 defmodule Datos do
   @doc "Mínimo 10 repartidores, al menos 4 con bicicleta"
