@@ -1,3 +1,6 @@
+# Integrantes: JEISON LOPEZ, LAURA SANCHEZ
+# Universidad del Quindío - Programación III - Parcial 1
+
 defmodule Util2 do
   @moduledoc """
   Funciones auxiliares de propósito general para entrada y salida de datos,
