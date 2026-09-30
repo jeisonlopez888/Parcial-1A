@@ -1,4 +1,4 @@
-# Integrantes: Estudiante 1, Estudiante 2, Estudiante 3
+# Integrantes: JEISON LOPEZ, LAURA SANCHEZ
 # Universidad del Quindío - Programación III - Parcial 1
 
 defmodule Reportes do
