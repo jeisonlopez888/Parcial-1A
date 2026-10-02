@@ -1,4 +1,4 @@
-# Integrantes: JEISON LOPEZ, LAURA SANCHEZ
+# Integrantes: Laura Sanchez, Jeison Lopez
 # Universidad del Quindío - Programación III - Parcial 1
 
 defmodule Calculos do
@@ -229,4 +229,3 @@ defmodule Calculos do
     end)
   end
 end
-

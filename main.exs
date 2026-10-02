@@ -1,4 +1,4 @@
-# Integrantes: JEISON LOPEZ, LAURA SANCHEZ
+# Integrantes: Laura Sanchez, Jeison Lopez
 # Universidad del Quindío - Programación III - Parcial 1
 
 Code.require_file("util2.exs")
